@@ -1,0 +1,31 @@
+{
+    "MQTT": {
+        "idShort": "MQTT",
+        "IP": "192.168.250.201",
+        "Port": "1883",
+        "Protocols01": "MQTT",
+        "Library 01": "PubSubClient.h",
+        "Topic": "sensors.id/processor.ip",
+        "Rate": "10000"
+    },
+    "Sensor_DS18B20": {
+        "idShort": "Sensor_DS18B20",
+        "MaxValue": "-55",
+        "MinValue": "+125",
+        "Value": "",
+        "SupplyVoltage": "3-5.5",
+        "Libraries01": "DallasTemperature.h",
+        "Libraries02": "OneWire.h",
+        "ReadingType01": "Temperature",
+        "Interface01": "4"
+    },
+    "ESP32": {
+        "idShort": "ESP32",
+        "I/O01": "",
+        "Processing Power": "",
+        "Interfaces01": "",
+        "Comunication Technology01": "",
+        "IP": "192.168.250.20",
+        "Power Interface": ""
+    }
+}
