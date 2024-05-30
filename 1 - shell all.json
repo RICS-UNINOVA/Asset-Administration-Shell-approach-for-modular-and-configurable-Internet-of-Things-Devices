@@ -1,0 +1,474 @@
+{
+    "result": [
+        {
+            "idShort": "Composite AAS",
+            "id": "https://example.com/ids/sm/8444_3130_5042_1582",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/3314_3130_5042_9566",
+                "defaultThumbnail": {
+                    "path": "/montagem_final.png"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ExternalReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/8444_3130_5042_8982"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "Comunication_Physical",
+            "id": "https://example.com/ids/sm/7442_5120_5042_7441",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/2154_4120_5042_9355",
+                "defaultThumbnail": {
+                    "path": "/router_2502330.png"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/1174_4120_5042_8811"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0274_4120_5042_8186"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0474_4120_5042_4957"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/5574_4120_5042_7984"
+                        }
+                    ]
+                },
+                {
+                    "type": "ExternalReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/7442_5120_5042_8441"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "MQTT",
+            "id": "https://example.com/ids/aas/8043_5172_5042_0970",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/1331_3120_5042_9377",
+                "assetType": "",
+                "defaultThumbnail": {
+                    "path": "/communication-svgrepo-com.png"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/9561_3120_5042_2789"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/7171_3120_5042_0573"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2471_3120_5042_6737"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/6391_3120_5042_2658"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "PowerSupply",
+            "id": "https://example.com/ids/sm/1310_4151_4042_2061",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/0110_4151_4042_8424",
+                "defaultThumbnail": {
+                    "path": "/R1366054-01.webp"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/4460_4151_4042_7185"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/7560_4151_4042_8397"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/6170_4151_4042_0229"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0370_4151_4042_8508"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/5422_1120_5042_1651"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "ESP32",
+            "id": "https://example.com/ids/aas/1511_3151_4042_3133",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/8061_3151_4042_9167",
+                "defaultThumbnail": {
+                    "path": "/nodemcu-esp32.jpg"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/3121_3151_4042_1630"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/1221_3151_4042_1178"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/1421_3151_4042_3329"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2275_3151_4042_3560"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/4480_1120_5042_9790"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "SEED_MQ9_GAS_Sensor",
+            "id": "https://example.com/ids/sm/3264_9051_4042_5557",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/0342_9090_4042_4514",
+                "defaultThumbnail": {
+                    "path": "/mq9.webp"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/6063_9090_4042_9671"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0124_9090_4042_9222"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/0244_9090_4042_8394"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/9441_9020_5042_6936"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/8502_0120_5042_4246"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "IoT",
+            "id": "https://example.com/ids/aas/7224_4112_5042_5028",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "defaultThumbnail": {
+                    "path": "/montagem_final.png"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/3264_4112_5042_9816"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/3464_4112_5042_0943"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2074_4112_5042_9891"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/4221_5112_5042_2400"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "Sensor_DS18B20",
+            "id": "https://example.com/ids/aas/7392_2122_5042_8019",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/7033_2122_5042_3985",
+                "defaultThumbnail": {
+                    "path": "/sensor-de-temperatura-ds18b20.jpg"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/8013_2122_5042_2929"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2213_2122_5042_5901"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/7313_2122_5042_6263"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/5413_2122_5042_0568"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2123_2122_5042_2176"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        },
+        {
+            "idShort": "HTTP",
+            "id": "https://example.com/ids/sm/8161_3120_5042_3340",
+            "assetInformation": {
+                "assetKind": "Instance",
+                "globalAssetId": "https://example.com/ids/asset/1331_3120_5042_9377",
+                "assetType": "",
+                "defaultThumbnail": {
+                    "path": "/communication-svgrepo-com.png"
+                }
+            },
+            "submodels": [
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/9561_3120_5042_2780"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/7171_3120_5042_0570"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/2471_3120_5042_6730"
+                        }
+                    ]
+                },
+                {
+                    "type": "ModelReference",
+                    "keys": [
+                        {
+                            "type": "Submodel",
+                            "value": "https://example.com/ids/sm/6391_3120_5042_2650"
+                        }
+                    ]
+                }
+            ],
+            "modelType": "AssetAdministrationShell"
+        }
+    ],
+    "paging_metadata": {}
+}
